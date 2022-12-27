@@ -17,10 +17,10 @@ export const Footer = () => {
           </Col> */}
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/company/the-happy-hippies-show"><img src={navIcon1} alt="Icon" /></a>
-              <a href="https://www.facebook.com/happy.hippie.969/"><img src={navIcon2} alt="Icon" /></a>
-              <a href="https://www.instagram.com/thehappyhippiesshow/?hl=en"><img src={navIcon3} alt="Icon" /></a>
-              <a href="https://www.youtube.com/channel/UCri7Bmj7Iz30kEcOvzWr3SA"><img src={navIcon4} alt="Icon" /></a>
+              <a href="https://www.linkedin.com/company/the-happy-hippies-show"  target="_blank" ><img src={navIcon1} alt="Icon" /></a>
+              <a href="https://www.facebook.com/happy.hippie.969/"  target="_blank" ><img src={navIcon2} alt="Icon" /></a>
+              <a href="https://www.instagram.com/thehappyhippiesshow/?hl=en"  target="_blank" ><img src={navIcon3} alt="Icon" /></a>
+              <a href="https://www.youtube.com/channel/UCri7Bmj7Iz30kEcOvzWr3SA"  target="_blank" ><img src={navIcon4} alt="Icon" /></a>
             </div>
             <p>@Loki Copyright 2022. All Rights Reserved</p>
           </Col>
