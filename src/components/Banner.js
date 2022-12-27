@@ -97,7 +97,7 @@ export const Banner = () => {
                   <div class="tooltip-wrap">
                     <img src={headerImg} alt="Header Img" />
                     <div class="tooltip-content">
-                      #MoonProject
+                     <b> #MoonProject </b> <br></br>
 
                       In current times, the happy hippies are on their journey to be on the moon by 2024. They are doing this to make earth a better place, cleaner environment, less pollution, no descrimination and happiness for all. Now the happy hippies of future, year 2024, from the moon, are showing us their journey from earth to moon through this show.
 
